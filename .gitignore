@@ -1,0 +1,7 @@
+#File-ignore
+*.exe
+*.lock
+
+#folder ignore
+.vscode/
+target/
